@@ -1,5 +1,5 @@
 -👋 Hi, I’m @amritrai404
-- 👀 I’m interested in Web Devlopment and DSA with JAVA language.
+- 👀 I’m interested in "Web Devlopment" and "DSA with JAVA language".
 - 🌱 I’m currently learning JAVASCRIPT and already learnt HTML and CSS.
 - 💞️ I’m looking to collaborate on projects which tests my skills.
 - No unwanted texts here..!
